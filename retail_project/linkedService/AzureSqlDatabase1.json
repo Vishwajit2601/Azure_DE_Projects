@@ -1,0 +1,17 @@
+{
+	"name": "AzureSqlDatabase1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "pocserver-retail-db.database.windows.net",
+			"database": "pocdatabase-retail",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "admin-vishwajit",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDU3RUYyRTRFLUEwNjItNDdBRi1CRDQ0LTY5RTM1ODMwMTE2Q18wMjcyZWNjMi1hYzI3LTQ0MDMtOWQ3MS1kMzU2MWUxOThkYjMiDQp9"
+		}
+	}
+}
