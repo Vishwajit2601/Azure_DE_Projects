@@ -1,0 +1,9 @@
+{
+	"name": "pocadfretail26012003",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b135a75-0383-4fa3-ac2b-cd26aa7ad342",
+		"tenantId": "f37fa775-e9a1-4bc5-b7fe-3b3f7c9bbc22"
+	}
+}
